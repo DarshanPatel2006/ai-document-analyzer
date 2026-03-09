@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 Upload a PDF document and ask questions about its content.
 
-![App Screenshot](screenshots/ai-document-analyzer.png)
+![App Screenshot](screenshots/ai-document-assistant-image.png)
 
 ## Run
 
