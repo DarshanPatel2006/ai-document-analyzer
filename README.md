@@ -26,6 +26,12 @@ Document → Chunking → Embedding → Vector DB → Retrieval → LLM
 
 pip install -r requirements.txt
 
+## Demo
+
+Upload a PDF document and ask questions about its content.
+
+![App Screenshot](screenshots/app.png)
+
 ## Run
 
 streamlit run app.py
